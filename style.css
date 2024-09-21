@@ -1,0 +1,15 @@
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+img {
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    border-radius: 5px;
+}
+
+.caption p {
+    font-size: 10px;
+}
